@@ -1,0 +1,27 @@
+PHP-->
+
+add_filter() --. this mathod will help to filter post content or modify post content this mathod revice 2 peramiter in the first paramiter it takes the content you want to filter such as 'the_content , second is a funtion
+
+Example :
+
+ add_filter('the_content' , 'addToEndOfPost');
+ function addToEndOfPost($content) {
+    
+    return $content . '<p>My Name is Zonayed Ahamad</p>';
+
+ }
+
+ Mathods : 
+ add_ation();
+ add_filter(a,b);
+ is_single();
+ is_main_query();
+ is_page();
+ add_option_page('Page title' , 'menu label' , 'permission-manage_options' , 'page slug' , 'function name for the html') --> This will help to add settings page
+
+
+
+
+
+action types >
+admin_menu , admin_init

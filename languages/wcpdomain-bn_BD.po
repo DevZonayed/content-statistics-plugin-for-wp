@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog-Prefix\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-07 02:23+0000\n"
+"PO-Revision-Date: 2023-06-07 02:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bengali (Bangladesh)\n"
+"Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: wcpdomain"
+
+#. Name of the plugin
+msgid "Blog-Prefix"
+msgstr ""
+
+#: blog-prefix.php:45
+msgid "characters"
+msgstr "অক্ষর"
+
+#. URI of the plugin
+msgid "https://github.com/WordPress/gutenberg-examples"
+msgstr ""
+
+#: blog-prefix.php:48
+msgid "minite(s) to read it"
+msgstr "মিনিট সময় পড়তে"
+
+#. Description of the plugin
+msgid ""
+"This is a plugin demonstrating how to register new blocks for the Gutenberg "
+"editor."
+msgstr ""
+
+#: blog-prefix.php:42 blog-prefix.php:45
+msgid "This post has"
+msgstr "এই পোস্টে আছে"
+
+#: blog-prefix.php:48
+msgid "This post shall take about"
+msgstr "এই পোস্টে লাগতে পারে"
+
+#: blog-prefix.php:110
+msgid "Word Count"
+msgstr "ওয়ার্ড কাউন্ট"
+
+#: blog-prefix.php:42
+msgid "words"
+msgstr "শব্দ"
+
+#. Author of the plugin
+msgid "Zonayed Ahamad"
+msgstr ""
